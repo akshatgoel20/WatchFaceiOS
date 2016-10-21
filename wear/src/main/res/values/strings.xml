@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WatchFaceiOS</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_analog_name">Akshat</string>
+</resources>
