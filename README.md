@@ -1,2 +1,2 @@
 # WatchFaceiOS
-Android WatchFace App containing WatchFaces of Apple Watch
+Android WatchFace Android App containing WatchFaces of Apple Watch
